@@ -1,0 +1,8 @@
+01/06/2023 04:56:41 INFO: Token Identificado!
+01/06/2023 04:56:41 INFO: Aplicação logada na API do Google Drive!
+01/06/2023 04:56:44 WARNING: ID do arquivo '1639' não foi econtrada no caminho ABREUELIMA\BRUNO\C42671 sequencia: '1'!
+01/06/2023 04:56:44 WARNING: ID do arquivo '1640' não foi econtrada no caminho ABREUELIMA\BRUNO\C42671 sequencia: '1'!
+01/06/2023 04:56:45 WARNING: ID do arquivo '1641' não foi econtrada no caminho ABREUELIMA\BRUNO\C42671 sequencia: '1'!
+01/06/2023 04:56:45 WARNING: ID do arquivo '1642' não foi econtrada no caminho ABREUELIMA\BRUNO\C42671 sequencia: '1'!
+01/06/2023 04:56:45 WARNING: ID do arquivo '1643' não foi econtrada no caminho ABREUELIMA\BRUNO\C42671 sequencia: '1'!
+01/06/2023 04:56:46 WARNING: ID do arquivo '1644' não foi econtrada no caminho ABREUELIMA\BRUNO\C42671 sequencia: '1'!
